@@ -5,7 +5,7 @@ This project demonstrates SQL-based analysis of a restaurant database using MySQ
 Tables Analyzed
 # 1. menu_items
 
-# Contains information about:
+Contains information about:
 
 Menu Item Name
 Category
