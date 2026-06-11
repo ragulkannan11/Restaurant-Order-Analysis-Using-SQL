@@ -34,7 +34,7 @@ group by category;
 SELECT COUNT(DISTINCT category)
 FROM MENU_ITEMS;
 
--- what is the average dish price within each category ?
+-- 7. what is the average dish price within each category ?
 
 select category, avg(price) as avg_price
 from menu_items
